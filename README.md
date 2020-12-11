@@ -26,4 +26,12 @@
  I enjoyed working on the codewars problems. Before this project, I was not a fan of Python, which is why I
  wanted to use python. Also, the homework with the raspberry pi inspired me to want to learn more. After this
  project, I feel that I know enough python to get done what I need to get done, and then maybe a little bit more.
- In codewars, I am at 6kyu and I have 126 Kata
+ In codewars, I am at 6kyu and I have 126 Honor. I felt that I did alright with the problem solving side of this.
+ This project took me some googling and some thinking, but eventually I got it done. 
+ 
+ I have enjoyed this class and I am really glad that I took it. I wanted to improve my coding skills when
+ I signed up to take this class. I did improve my coding skills, but I also improved my general computer
+ skills, which, in todays world, is very important. Thank you for being lenient on due dates and grading,
+ it has made my semester much less stressful and much easier.
+ 
+ Have a great break, a Merry Christmas, and a Happy New Year.
